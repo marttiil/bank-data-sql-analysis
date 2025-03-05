@@ -14,7 +14,7 @@ This is done to ensure
 
 2. Prepare the Dataset
    
-Download the dataset and place it in data/bank_cleaned.csv.
+Place the dataset it in data/bank_cleaned.csv.
 Navigate to your project folder where your SQLite database will be stored
 
 4. Create the Database
