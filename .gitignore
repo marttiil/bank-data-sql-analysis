@@ -1,0 +1,10 @@
+# Ignore SQLite database files
+*.db
+*.sqlite
+
+# Ignore large raw data files
+data/*.csv
+
+# Ignore Windows system files
+Thumbs.db
+.DS_Store
