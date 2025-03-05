@@ -13,10 +13,12 @@ This is done to ensure
 1. If you haven’t installed yet, get the SQLite and SQLite Studio.
 
 2. Prepare the Dataset
+   
 Download the dataset and place it in data/bank_cleaned.csv.
 Navigate to your project folder where your SQLite database will be stored
 
-3. Create the Database
+4. Create the Database
+   
 Run the following commands in Command Prompt (cmd.exe):
 
 sqlite3 bank.db
