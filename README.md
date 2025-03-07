@@ -1,5 +1,5 @@
 # bank-data-sql-analysis
-Project to analyse UCI bank marketing dataset by using SQL queries and SQlite.
+Project to analyse UCI bank marketing dataset by using SQL queries and SQlite. Includes basic data exploration and a small scale machine learning experiment.
 
 # Data
 
